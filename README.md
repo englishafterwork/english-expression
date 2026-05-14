@@ -128,7 +128,7 @@
     <h2>영어 사고력을 키우는 대화 가이드</h2>
     <p style="margin-top:20px; line-height: 1.6;">
       상단 메뉴에서 <strong>'원어민이 쓰는 덩어리 표현'</strong>을 클릭하여<br>
-      아이와 함께 나눌 수 있는 30가지 질문을 확인해보세요.
+      각 상황에 맞는 원어민 표현을 확인해 보세요.
     </p>
     
     <a href="english_questions_30.pdf" download class="download-btn">
